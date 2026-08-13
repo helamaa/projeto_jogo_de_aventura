@@ -224,17 +224,6 @@ O personagem consegue sobreviver.
 
 Esses diferentes caminhos ajudam a verificar se as condições estão direcionando o programa para os resultados esperados.
 
-▶️ Como executar
-1. Instale o Python
-
-Certifique-se de ter o Python 3 instalado.
-
-2. Clone o repositório
-git clone URL_DO_SEU_REPOSITORIO
-3. Acesse a pasta
-cd nome-do-projeto
-4. Execute o programa
-python main.py
 
 🚀 Possíveis melhorias
 
